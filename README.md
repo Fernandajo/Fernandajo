@@ -26,7 +26,6 @@ I'm currently a student at 42 Berlin, a peer-to-peer, project-based coding schoo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandajo&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fernandajo&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
