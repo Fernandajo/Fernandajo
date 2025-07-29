@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there, I'm Fernanda!
 I'm currently a student at 42 Berlin, a peer-to-peer, project-based coding school with a focus on low-level programming and problem-solving, now deep-diving into C and C++, system programming, and back-end web dev.<br><br>
 ### 🔧 Currently Working On
 - Building a web server in C++ from scratch
