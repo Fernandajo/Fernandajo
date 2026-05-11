@@ -9,7 +9,7 @@ Currently working as a Linguistic Quality Assurance Tester at QLOC while develop
 - **[MiniRT](https://github.com/Fernandajo/MiniRT)** — a 3D raytracer in C with multithreading, Phong lighting, reflections, and OBJ mesh support
 - **[WebServ](https://github.com/Fernandajo/WebServ)** — an HTTP/1.1 server in C++ with non-blocking I/O, OOP architecture, and a CGI execution pipeline
 - **[Minishell](https://github.com/Fernandajo/Minishell)** — a Unix shell in C with pipelines, redirections, and fork/exec process management
-- **QuizEverything** — a realtime multiplayer quiz app with WebSockets, Redis, PostgreSQL, and OpenAI API integration
+- **[QuizEverything](https://github.com/Fernandajo/QuizEverything)** — a realtime multiplayer quiz app with WebSockets, Redis, PostgreSQL, and OpenAI API integration
 
 ## Tech
 C · C++ · Python · Bash · Node.js · Docker · Git · Makefile · Valgrind · Postman · Prisma
